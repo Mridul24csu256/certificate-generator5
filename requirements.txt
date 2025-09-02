@@ -1,0 +1,5 @@
+streamlit>=1.25
+pandas>=2.1
+Pillow>=10.0
+streamlit-drawable-canvas>=0.10
+openpyxl>=3.2  # For Excel reading
